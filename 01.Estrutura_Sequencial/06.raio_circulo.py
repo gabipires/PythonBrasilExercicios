@@ -1,4 +1,4 @@
-raio=int(input("Informe o raio da circunferência:"))
+raio=int(input("Informe o raio da circunferência: "))
 pi=3.14
 area=pi*raio**2
 
